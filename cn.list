@@ -1,3 +1,5 @@
+Test
+
 # china
 
 
@@ -29,29 +31,24 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,moke.com
 
 # apple
-DOMAIN-SUFFIX,push.apple.com //推送通知
-DOMAIN,identity.apple.com //APNs 证书请求门户
-IP-CIDR,17.249.0.0/16,no-resolve
-IP-CIDR,17.252.0.0/16,no-resolve
-IP-CIDR,17.57.144.0/22,no-resolve
-IP-CIDR,17.188.128.0/18,no-resolve
-IP-CIDR,17.188.20.0/23,no-resolve
-DOMAIN-SUFFIX,store.apple.com // Apple Store Online
-DOMAIN-SUFFIX,ls.apple.com // Apple Maps
-# app store
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
-# weather
-DOMAIN,weather-data.apple.com
-DOMAIN,weather-analytics-events.apple.com
-DOMAIN,weather-map2.apple.com
-# update
-DOMAIN,updates.cdn-apple.com //system update
-DOMAIN,supportdownload.apple.com
-DOMAIN,appldnld.apple.com
-DOMAIN,swcdn.apple.com
-DOMAIN,apptrailers.itunes.apple.com
-DOMAIN,updates-http.cdn-apple.com
+DOMAIN,api.smoot.apple.com
+DOMAIN,captive.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,configuration.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,smp-device-content.apple.com
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,api.smoot.apple.cn
+DOMAIN,gs-loc.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN-SUFFIX,lcdn-registration.apple.com
+DOMAIN-SUFFIX,ls.apple.com
 # apple Music Streaming
 DOMAIN,aod.itunes.apple.com
 DOMAIN,mvod.itunes.apple.com
