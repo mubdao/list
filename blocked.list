@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,imdb.com
 
 # email
 DOMAIN,apple.imap.mail.yahoo.com
