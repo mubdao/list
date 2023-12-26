@@ -29,7 +29,6 @@ DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 
 # emby
-DOMAIN-SUFFIX,emby-mix.atomlantis.cloud
 DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
 DOMAIN-SUFFIX,stream.synn.cc
 DOMAIN-SUFFIX,ntrrr.am.sb
