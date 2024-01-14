@@ -101,7 +101,6 @@ IP-CIDR,203.205.238.0/23,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
 
 # misc
-DOMAIN-SUFFIX,synn.cc // synn
 DOMAIN,acl.syyn.pw // synn sub
 DOMAIN,btlsmi.xyz // amytelecom
 DOMAIN-SUFFIX,789.123456.al // treediagram emby
