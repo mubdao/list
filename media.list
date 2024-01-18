@@ -30,5 +30,5 @@ DOMAIN,yt3.ggpht.com
 
 # emby
 DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
-DOMAIN-SUFFIX,stream.synn.cc
 DOMAIN-SUFFIX,stream.ntrrr.top
+IP-CIDR,167.235.116.53/32,no-resolve
