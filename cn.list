@@ -43,6 +43,6 @@ IP-CIDR,129.226.107.244/32,no-resolve
 # misc
 DOMAIN,btlsmi.xyz // amytelecom
 DOMAIN-SUFFIX,789.123456.al // treediagram emby
-SUFFIX,direct.lyrebirdemby.com // Lyrebird emby
+DOMAIN-SUFFIX,direct.lyrebirdemby.com // Lyrebird emby
 
 DOMAIN-SUFFIX,cn
