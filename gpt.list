@@ -2,6 +2,7 @@
 
 
 # OpenAI ChatGPT
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
@@ -17,10 +18,17 @@ DOMAIN-KEYWORD,openaicom
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
-# Google Bard
+# Google & Gemini
+DOMAIN,gemini.google.com
 DOMAIN,bard.google.com
 
-# Microsoft Copilot
+# JetBrains AI
+DOMAIN-SUFFIX,grazie.ai
+
+# Microsoft & Copilot
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
+
+# Meta
+DOMAIN,imagine.meta.com
