@@ -27,8 +27,8 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,imdb.com
 
 # appstore
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
 
 # x
 DOMAIN-SUFFIX,t.co
