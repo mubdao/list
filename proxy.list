@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,hotmail
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,twitter
@@ -25,17 +26,9 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,imdb.com
 
-# email
-DOMAIN,apple.imap.mail.yahoo.com
-DOMAIN,apple.smtp.mail.yahoo.com
-DOMAIN,imap-mail.outlook.com
-DOMAIN,imap.gmail.com
-DOMAIN,outlook.office365.com
-DOMAIN,pop.gmail.com
-DOMAIN,smtp-mail.outlook.com
-DOMAIN,smtp.gmail.com
-DOMAIN,smtp.office365.com
-DOMAIN-SUFFIX,m.hotmail.com
+# appstore
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
 
 # x
 DOMAIN-SUFFIX,t.co
