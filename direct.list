@@ -31,6 +31,11 @@ IP-CIDR,129.226.3.47/32,no-resolve
 IP-CIDR,129.226.107.244/32,no-resolve
 
 # Misc
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN,btlsmi.xyz
 DOMAIN-SUFFIX,CN
