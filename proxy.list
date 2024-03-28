@@ -1,9 +1,4 @@
-# blocked
-
-
-# key suffix
-DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,facebook
+# Key
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,hotmail
@@ -12,18 +7,18 @@ DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,wiki
+DOMAIN-KEYWORD,.facebook.
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.net
 
-# appstore
+# Apple
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN,testflight.apple.com
 
-# x
+# X
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
@@ -31,7 +26,7 @@ DOMAIN-SUFFIX,twimg.org
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,x.com
 
-# telegram
+# Telegram
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,legra.ph
 DOMAIN-SUFFIX,t.me
@@ -41,10 +36,12 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telesco.pe
 IP-ASN,59930,no-resolve
+IP-ASN,211157,no-resolve
 IP-ASN,62041,no-resolve
 IP-ASN,62014,no-resolve
+IP-ASN,44907,no-resolve
 
-# spotify
+# Spotify
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
@@ -52,7 +49,7 @@ DOMAIN-SUFFIX,spoti.fi
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
 
-# youtube
+# YouTube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
