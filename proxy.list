@@ -14,8 +14,6 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bing.com
 
 # Apple
-DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN,testflight.apple.com
 
 # X
