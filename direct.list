@@ -1,11 +1,13 @@
 # Apps
 USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
+DOMAIN-SUFFIX,cn
 # Ali
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,.tmall.
 # Apple system
 DOMAIN,api.smoot.apple.com
@@ -26,7 +28,3 @@ DOMAIN,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,ls.apple.com
-# China
-DOMAIN-SUFFIX,CN
-DOMAIN-KEYWORD,baidu
-DOMAIN,btlsmi.xyz
