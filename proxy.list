@@ -12,10 +12,9 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bing.com
-
 # Apple
 DOMAIN,testflight.apple.com
-
+DOMAIN,apps.apple.com
 # X
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
@@ -23,22 +22,12 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,x.com
-
 # Telegram
-DOMAIN-SUFFIX,comments.app
-DOMAIN-SUFFIX,legra.ph
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
 IP-ASN,59930,no-resolve
 IP-ASN,211157,no-resolve
 IP-ASN,62041,no-resolve
 IP-ASN,62014,no-resolve
 IP-ASN,44907,no-resolve
-
 # Spotify
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
@@ -46,7 +35,6 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
-
 # YouTube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
