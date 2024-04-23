@@ -15,12 +15,6 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bing.com
 # Apple
 DOMAIN,testflight.apple.com
-# Telegram
-IP-ASN,59930,no-resolve
-IP-ASN,211157,no-resolve
-IP-ASN,62041,no-resolve
-IP-ASN,62014,no-resolve
-IP-ASN,44907,no-resolve
 # Spotify
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
