@@ -10,7 +10,6 @@ DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,sfo3.turn.livekit.cloud
 DOMAIN-KEYWORD,openaicom
-
 # Claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
