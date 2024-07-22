@@ -32,6 +32,14 @@ DOMAIN,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,ls.apple.com
+# Store content such as apps, books, and music
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN,ppq.apple.com // Enterprise App validation
 # Apple other
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.com
