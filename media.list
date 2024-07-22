@@ -1,0 +1,15 @@
+# Emby
+DOMAIN-SUFFIX,stream.ntrrr.top
+DOMAIN-SUFFIX,lyrebirdemby.com
+DOMAIN-SUFFIX,789.123456.al
+# Spotify
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,-spotify-com
+# YouTube
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
