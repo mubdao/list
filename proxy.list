@@ -8,33 +8,13 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,facebookhttps://github.com/mubdao/list/tree/main
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bing.com
 # Apple Testflight
 DOMAIN,testflight.apple.com
-# App Store
-# Store content such as apps, books, and music
-DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN,iosapps.itunes.apple.com
-DOMAIN,osxapps.itunes.apple.com
-DOMAIN,ppq.apple.com // Enterprise App validation
-# Spotify
-DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-KEYWORD,-spotify-com
-# YouTube
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,googlevideo.com
 # Telegram
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
