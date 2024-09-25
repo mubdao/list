@@ -14,3 +14,15 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bing.com
 # Apple Testflight
 DOMAIN,testflight.apple.com
+# Open Ai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN,api.statsig.com
+DOMAIN,api-iam.intercom.io
+DOMAIN,chatgpt.livekit.cloud
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,sfo3.turn.livekit.cloud
+DOMAIN-KEYWORD,openaicom
