@@ -12,13 +12,3 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bing.com
-# App Store
-# Store content such as apps, books, and music
-DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN,iosapps.itunes.apple.com
-DOMAIN,ppq.apple.com // Enterprise App validation
-# Apple Testflight
-DOMAIN,testflight.apple.com
