@@ -13,7 +13,3 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,speedtest
-# Claude
-DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
