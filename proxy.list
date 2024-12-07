@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,speedtest
+DOMAIN,api.swiftgram.app
 
 # ChatGPT
 DOMAIN-SUFFIX,chatgpt.com
