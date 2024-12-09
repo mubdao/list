@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,qq.com
+# Outlook
+DOMAIN,outlook.office365.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,smtp.office365.com
 # Wechat
 DOMAIN-SUFFIX,wechat.com,extended-matching
 IP-CIDR,43.156.222.113/32,no-resolve
