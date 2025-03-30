@@ -2,6 +2,15 @@
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
-# Claude
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
+# ChatGPT
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN,api.statsig.com
+DOMAIN,api-iam.intercom.io
+DOMAIN,chatgpt.livekit.cloud
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,sfo3.turn.livekit.cloud
+DOMAIN-KEYWORD,openaicom
