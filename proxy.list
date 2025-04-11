@@ -1,4 +1,5 @@
 # Proxy
+DOMAIN-SUFFIX,vercel.app
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,hotmail
