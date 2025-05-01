@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,ip.im
 DOMAIN-KEYWORD,speedtest
 # Emby
 DOMAIN-SUFFIX,lyrebirdemby.com
