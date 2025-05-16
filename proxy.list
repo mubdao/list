@@ -28,6 +28,11 @@ IP-CIDR,109.239.140.0/24,no-resolve
 # Emby
 DOMAIN-SUFFIX,lyrebirdemby.com
 DOMAIN-SUFFIX,embyplus.org
+
+# Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
 # YouTube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
