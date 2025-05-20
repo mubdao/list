@@ -922,7 +922,7 @@ DOMAIN,zgsdk.zhugeio.com
 # 51.LA
 DOMAIN,js.users.51.la
 DOMAIN,mc.51.la
-DOMAIN,sdk.51.la
+#DOMAIN,sdk.51.la
 DOMAIN,wc.51.la
 # 58
 DOMAIN,track.58.com
