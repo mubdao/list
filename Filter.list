@@ -1,11 +1,8 @@
-QX
-
-
+# QX Fliter
 
 # Alibaba
 host,log.mmstat.com, direct
 host,sycm.mmstat.com, direct
-
 # Apple 
 host-keyword, push.apple.com, direct
 host, time.apple.com, direct
@@ -27,21 +24,17 @@ host-keyword, ls.apple.com, direct
 host-keyword, gsa.apple.com, direct
 host-keyword, ess.apple.com, direct
 host, itunes.apple.com, direct
-
 # Tencent
 host,fairplay.l.qq.com, direct
 host,livew.l.qq.com, direct
 host,vd.l.qq.com, direct
 host,vi.l.qq.com, direct
-
 # Umeng
 host,msg.umeng.com, direct
 host,msg.umengcloud.com, direct
-
 # Router
 ip-cidr, 192.168.0.1/24, direct
 ip-cidr, 192.168.1.1/24, direct
-
 # 广告联盟
 host-suffix, miaozhen.com, reject
 host-suffix, ad-sign.byteimg.com, reject
@@ -59,8 +52,6 @@ host-suffix, log.aliyuncs.com, reject
 host-suffix, zlsdk.1rtb.net, reject
 host-keyword, volc, reject
 host-keyword, umeng, reject
-
-
 # AD
 host, api.liquidlink.cn, reject
 host, ad.mcloud.139.com, reject
@@ -108,7 +99,6 @@ host-suffix, safebrowsing.apple, reject
 host-suffix, u3.ucweb.com, reject
 # 阿里云
 IP-CIDR, 203.107.1.1/24, reject
-
 # 百度
 host-suffix, duapps.com, reject
 host-suffix, cpro.baidu.com, reject
@@ -263,10 +253,8 @@ host, afd.baidu.com, reject
 host, afdconf.baidu.com, reject
 host, httpdns.baidubce.com, reject
 host, lc.map.baidu.com, reject
-
 # 百度贴吧 屏蔽域名dns查询
 IP-CIDR, 180.76.76.200/32, reject
-
 # 哔哩哔哩
 ;HOST, mall.bilibili.com, REJECT
 ;HOST, passport.bilibili.com, REJECT
@@ -471,9 +459,7 @@ IP-CIDR, 120.240.95.37/32, reject
 host, ad.zijieapi.com, reject
 host, applog.zijieapi.com, reject
 host-suffix, -normal-lq.zijieapi.com, reject
-
 # 其他
-
 host-keyword, 112wan, reject
 host-keyword, 789htbet, reject
 host-suffix, XiaoQiang, reject
