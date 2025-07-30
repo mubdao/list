@@ -12,6 +12,3 @@ DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
-# xAI
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.ai
