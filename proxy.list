@@ -36,18 +36,3 @@ DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
-
-# YouTube
-DOMAIN,youtubei.googleapis.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtu.be
-USER-AGENT,*YouTube*
-USER-AGENT,com.google.ios.youtube*
-
-# Emby
-DOMAIN-SUFFIX,lyrebirdemby.com
-DOMAIN-SUFFIX,embyplus.org
-DOMAIN-SUFFIX,emby.zn.al
-DOMAIN-SUFFIX,public.shrekmedia.org
