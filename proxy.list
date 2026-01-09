@@ -33,9 +33,6 @@ USER-AGENT,*YouTube*
 USER-AGENT,com.google.ios.youtube*
 
 # Emby
-DOMAIN-SUFFIX,lyrebirdemby.com
-DOMAIN-SUFFIX,embyplus.org
-DOMAIN-SUFFIX,emby.zn.al
 DOMAIN-SUFFIX,public.shrekmedia.org
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
