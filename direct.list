@@ -28,8 +28,6 @@ DOMAIN,configuration.apple.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,smp-device-content.apple.com
 DOMAIN-SUFFIX,ess.apple.com
-DOMAIN-SUFFIX,push-apple.com.akadns.net
-DOMAIN-SUFFIX,push.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,mesu.apple.com
 DOMAIN,api.smoot.apple.cn
