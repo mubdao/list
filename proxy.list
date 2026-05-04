@@ -26,6 +26,11 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,ampproject.org
 
+# Apple Push
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+
 # YouTube
 DOMAIN,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtube.com
