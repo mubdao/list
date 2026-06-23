@@ -6,7 +6,5 @@ DOMAIN-SUFFIX,anthropic.com
 # Gemini
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN,ai.google.dev
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
