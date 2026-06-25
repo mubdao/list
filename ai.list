@@ -1,7 +1,17 @@
 # Claude
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,anthropic.com
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
+
+# Openai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,sora.com
 
 # Gemini
 DOMAIN-SUFFIX,gemini.google.com
